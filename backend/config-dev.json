@@ -1,0 +1,5 @@
+{
+    "port": 5235,
+    "cors": {},
+    "database": "AF_DB"
+}
