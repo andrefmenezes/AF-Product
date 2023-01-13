@@ -20,8 +20,8 @@ Este projeto tem como funcionalidades cadastrar,editar,deletar e visualizar os p
 As técnicas e tecnologias utilizadas no projeto são:
 
 - `Javascript`: Linguagem de programação utilizada no projeto.
-- `Node.js`: **Socket** .**IO é** .
-- `Vue.js`: **Socket** .**IO é** .
+- `Node.js`: Node.js é um software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um      navegador web.
+- `Vue.js`: Vue.js é um framework JavaScript de código-aberto, focado no desenvolvimento de interfaces de usuário e aplicativos de página única.
 
 ## 📲 Executando o projeto
 
@@ -31,6 +31,7 @@ Para conseguir seguir este README e rodar o projeto você pode precisar dos segu
 
 - Git para clonar o projeto e acessar as branches. Você pode instalar [aqui](https://git-scm.com/downloads);
 - Node para podermos rodar o `npm`. Você pode instala-lo [aqui](https://nodejs.org/en/);
+- MongoDB para o banco de dados. Você pode instala-lo [aqui](https://www.mongodb.com/try/download/community);
 
 Se quiser testar as instalações, rodar os comandos abaixo separadamente deve mostrar as respectivas versões.
 
@@ -38,6 +39,7 @@ Se quiser testar as instalações, rodar os comandos abaixo separadamente deve m
 git --version
 node --version
 npm --version
+mongod --version
 ```
 
 ### 🐙 Clonando o projeto
@@ -71,4 +73,4 @@ npm run start
 npm run serve
 ```
 
-Pronto, agora a aplicação está rodando.
+Pronto, agora a aplicação já está rodando.
