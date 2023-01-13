@@ -22,6 +22,7 @@ As técnicas e tecnologias utilizadas no projeto são:
 - `Javascript`: Linguagem de programação utilizada no projeto.
 - `Node.js`: Node.js é um software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um      navegador web.
 - `Vue.js`: Vue.js é um framework JavaScript de código-aberto, focado no desenvolvimento de interfaces de usuário e aplicativos de página única.
+- `MongoDB`: MongoDB é um software de banco de dados orientado a documentos livre, de código aberto e multiplataforma.
 
 ## 📲 Executando o projeto
 
